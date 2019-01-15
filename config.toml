@@ -1,4 +1,10 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+## Basic Configuration
+baseurl = "https://example.com/"
+languageCode = "en"
+
+title = "Title"
 theme = "hyde-hyde"
+
+## Social Accounts
+[params.social]
+    github = "nemotoy"
