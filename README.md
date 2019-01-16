@@ -15,3 +15,9 @@ $ git clone https://github.com/htr3n/hyde-hyde.git themes/hyde-hyde
 
 * [テーマ一覧](https://themes.gohugo.io/)
 * [themes on github](https://github.com/gohugoio/hugoThemes)
+
+## cmd
+
+```
+$ ./deploy.sh "commit message"
+```
